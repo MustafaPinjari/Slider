@@ -67,9 +67,9 @@ main {
   }
 
   & .description {
-    line-height: 1.7;
-    margin: 1rem 0 1.5rem;
-    font-size: 0.8rem;
+    line-height: 1.5;
+    margin: 2rem 0 2rem;
+    font-size: 1rem;
   }
 
   & button {
